@@ -1,10 +1,9 @@
 ### About me
 
 - 🔭 Senior Frontend Developer and Team Lead @Cuneicode
-
-- 👯 I’m looking to collaborate on cloud native security, IaC, threat modeling and everything in between
-- ⚡ Fun fact: I like travelling and exploring!
 - I’m currently working with React and React Native and Typescript
+- I like to work on all kind of things and trying new technologies
+- ⚡ Fun fact: I like travelling and exploring!
 - :earth_africa: Based in Baghdad
 
 ## Streak Stats
