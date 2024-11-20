@@ -18,7 +18,5 @@ Feel free to reach out 💬
     <a href="https://twitter.com/abdwgtk">
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
     </a>
-     <a href="https://www.linkedin.com/in/abdullah-harputluzade-596baa1b6/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
+
 </div>
